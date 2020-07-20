@@ -1,5 +1,5 @@
 ## Hi there my name is jackson kitsao👋
-![My stats](https://github-readme-stats.vercel.app/api?username=jkitsao&show_icons=true)
+![My stats](https://github-readme-stats.vercel.app/api?username=jkitsao&show_icons=true&&theme=radical)
 
 <!--
 **jkitsao/jkitsao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
